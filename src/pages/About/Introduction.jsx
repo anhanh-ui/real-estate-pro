@@ -63,18 +63,10 @@ const Introduction = () => {
               <div className="flex flex-col lg:flex-row items-center gap-12">
                 <div className="lg:w-1/2">
                   <h2 className="text-3xl md:text-4xl font-bold mb-6 text-red-600">
-                    Mr. Quoc Anh <br /> Position: Chairperson
+                    Pham Quoc Anh <br /> Student2412003
                   </h2>
                   <p className="text-lg text-gray-600 leading-relaxed">
-                    The Chairman of Real Estate Pro leads the board of
-                    directors, setting the vision for the company’s growth in
-                    the real estate market. They oversee high-level decisions
-                    such as acquiring new land parcels, approving major
-                    development projects (e.g., luxury condominiums or
-                    commercial complexes), and ensuring the company aligns with
-                    long-term goals like expanding into new regions. They chair
-                    board meetings to strategize market entry and maintain
-                    investor confidence.
+                    Email: quocanh82209@gmail.com
                   </p>
                 </div>
                 <div className="lg:w-1/2">
@@ -89,17 +81,10 @@ const Introduction = () => {
               <div className="flex flex-col lg:flex-row-reverse items-center gap-12 mt-20">
                 <div className="lg:w-1/2">
                   <h2 className="text-3xl md:text-4xl font-bold mb-6 text-red-600 text-left">
-                    Mr Van Huy <br /> Position: CEO
+                    Tran Van Huy <br /> Student1634991
                   </h2>
                   <p className="text-lg text-gray-600 leading-relaxed text-left">
-                    The CEO of Real Estate Pro is the driving force behind daily
-                    operations and execution of the board’s strategies. They
-                    oversee the development of properties (e.g., managing
-                    construction timelines, budgets, and sales teams), negotiate
-                    deals with contractors or buyers, and ensure profitability
-                    in projects like high-rise apartments or office buildings.
-                    They report progress to the board and represent the company
-                    in industry events or with stakeholders.
+                    Email: boyhuytran@gmail.com
                   </p>
                 </div>
                 <div className="lg:w-1/2">
@@ -114,19 +99,10 @@ const Introduction = () => {
               <div className="flex flex-col lg:flex-row items-center gap-12">
                 <div className="lg:w-1/2">
                   <h2 className="text-3xl md:text-4xl font-bold mb-6 text-red-600">
-                    Mr. Gia Thinh <br /> Position: Manager
+                    Le Phuoc Gia Thinh <br /> Student1628459
                   </h2>
                   <p className="text-lg text-gray-600 leading-relaxed">
-                    responsible for overseeing specific departments or projects
-                    within the company. They supervise teams, such as sales,
-                    property development, or customer service, ensuring that
-                    daily operations align with the company’s goals. For
-                    example, a Manager might coordinate the marketing of a new
-                    residential complex, manage a team of agents to meet sales
-                    targets, or oversee the maintenance of existing properties.
-                    They report to higher executives like the CEO or Directors,
-                    implement strategies, and handle resource allocation to
-                    drive efficiency and success in their designated area.
+                    Email: thinhthinh@gmail.com
                   </p>
                 </div>
                 <div className="lg:w-1/2">

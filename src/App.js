@@ -10,6 +10,7 @@ import ContactSection from "./components/Contact/ContactSection";
 import Footer from "./components/Footer/Footer";
 import FloatingContact from "./components/Common/FloatingContact";
 import properties from "./data/properties.json";
+import ScrollToTop from "./components/Footer/ScrollToTop";
 import {
   HashRouter as Router, // 🔥 thay vì BrowserRouter
   Routes,
@@ -136,6 +137,7 @@ function AppContent() {
 
       <Footer goToSection={goToSection} />
       <FloatingContact />
+      <ScrollToTop />
     </div>
   );
 }
